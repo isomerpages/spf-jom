@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Events
+    url: /events/
+  - title: Membership
+    url: /membership/
+  - title: Promotions
+    url: /promotions/
+  - title: About Us
+    collection: about-us
+  - title: Facilities
+    collection: facilities
